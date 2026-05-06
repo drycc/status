@@ -34,6 +34,7 @@ sites:
 status-website:
   cname: status.drycc.cc
   name: Drycc Status
+  theme: light
   introTitle: "Drycc Service Status"
   introMessage: "Real-time monitoring of Drycc public services. Check here for current status, incident history, and uptime metrics."
 

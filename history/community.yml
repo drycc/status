@@ -1,7 +1,7 @@
 url: https://community.drycc.cc
-status: up
-code: 200
-responseTime: 995
-lastUpdated: 2026-05-06T03:56:56.336Z
+status: down
+code: 502
+responseTime: 620
+lastUpdated: 2026-05-06T05:01:08.482Z
 startTime: 2026-05-06T03:56:53.219Z
 generator: Upptime <https://github.com/upptime/upptime>

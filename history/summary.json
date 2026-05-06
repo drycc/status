@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/community.drycc.cc.ico",
     "slug": "drycc-community",
     "status": "up",
-    "uptime": "92.84%",
-    "uptimeDay": "92.84%",
-    "uptimeWeek": "92.84%",
-    "uptimeMonth": "92.84%",
-    "uptimeYear": "92.84%",
+    "uptime": "92.36%",
+    "uptimeDay": "92.36%",
+    "uptimeWeek": "92.36%",
+    "uptimeMonth": "92.36%",
+    "uptimeYear": "92.36%",
     "time": 809,
     "timeDay": 809,
     "timeWeek": 809,
     "timeMonth": 809,
     "timeYear": 809,
     "dailyMinutesDown": {
-      "2026-05-06": 70
+      "2026-05-06": 75
     }
   },
   {

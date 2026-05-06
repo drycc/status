@@ -1,6 +1,8 @@
 # Change these first
 owner: drycc
 repo: status
+i18n:
+  footer: Powered by [Drycc](https://www.drycc.cc)
 
 user-agent: drycc
 
@@ -31,7 +33,6 @@ sites:
 status-website:
   cname: status.drycc.cc
   name: Drycc Status
-  theme: light
   introTitle: "Drycc Service Status"
   introMessage: "Real-time monitoring of Drycc public services. Check here for current status, incident history, and uptime metrics."
 

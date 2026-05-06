@@ -1,31 +1,47 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: drycc
+repo: status
+
+user-agent: drycc
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Drycc Community
+    url: https://community.drycc.cc
+    type: globalping
+    maxResponseTime: 5000
+    slug: community
 
+  - name: Drycc Website
+    url: https://www.drycc.cc
+    type: globalping
+    maxResponseTime: 5000
+    slug: website
+
+  - name: Drycc Registry
+    url: https://registry.drycc.cc/v2/
+    type: globalping
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 200
+      - 401
+    slug: registry
+
+  - name: Drycc Woodpecker
+    url: https://woodpecker.drycc.cc
+    type: globalping
+    maxResponseTime: 5000
+    slug: woodpecker
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+  cname: status.drycc.cc
+  name: Drycc Status
+  introTitle: "Drycc Service Status"
+  introMessage: "Real-time monitoring of Drycc public services. Check here for current status, incident history, and uptime metrics."
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+workflowSchedule:
+  uptime: "*/10 * * * *"
+  responseTime: "0 * * * *"
+  summary: "*/10 * * * *"
+  graphs: "0 0 * * *"
+  staticSite: "*/10 * * * *"
+  updateTemplate: "0 0 * * 0"
+  updates: "0 3 * * 0"

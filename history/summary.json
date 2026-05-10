@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/community.drycc.cc.ico",
     "slug": "drycc-community",
     "status": "up",
-    "uptime": "95.19%",
-    "uptimeDay": "80.53%",
-    "uptimeWeek": "95.19%",
-    "uptimeMonth": "95.19%",
-    "uptimeYear": "95.19%",
+    "uptime": "95.11%",
+    "uptimeDay": "80.18%",
+    "uptimeWeek": "95.11%",
+    "uptimeMonth": "95.11%",
+    "uptimeYear": "95.11%",
     "time": 1225,
     "timeDay": 1320,
     "timeWeek": 1225,
     "timeMonth": 1225,
     "timeYear": 1225,
     "dailyMinutesDown": {
-      "2026-05-10": 280
+      "2026-05-10": 285
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.drycc.cc.ico",
     "slug": "drycc-website",
     "status": "up",
-    "uptime": "95.20%",
-    "uptimeDay": "80.54%",
-    "uptimeWeek": "95.20%",
-    "uptimeMonth": "95.20%",
-    "uptimeYear": "95.20%",
+    "uptime": "95.12%",
+    "uptimeDay": "80.20%",
+    "uptimeWeek": "95.12%",
+    "uptimeMonth": "95.12%",
+    "uptimeYear": "95.12%",
     "time": 319,
     "timeDay": 412,
     "timeWeek": 319,
     "timeMonth": 319,
     "timeYear": 319,
     "dailyMinutesDown": {
-      "2026-05-10": 280
+      "2026-05-10": 285
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/registry.drycc.cc.ico",
     "slug": "drycc-registry",
     "status": "up",
-    "uptime": "95.20%",
-    "uptimeDay": "80.56%",
-    "uptimeWeek": "95.20%",
-    "uptimeMonth": "95.20%",
-    "uptimeYear": "95.20%",
+    "uptime": "95.12%",
+    "uptimeDay": "80.21%",
+    "uptimeWeek": "95.12%",
+    "uptimeMonth": "95.12%",
+    "uptimeYear": "95.12%",
     "time": 957,
     "timeDay": 970,
     "timeWeek": 957,
     "timeMonth": 957,
     "timeYear": 957,
     "dailyMinutesDown": {
-      "2026-05-10": 280
+      "2026-05-10": 285
     }
   },
   {
@@ -65,18 +65,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/woodpecker.drycc.cc.ico",
     "slug": "drycc-woodpecker",
     "status": "up",
-    "uptime": "95.21%",
-    "uptimeDay": "80.58%",
-    "uptimeWeek": "95.21%",
-    "uptimeMonth": "95.21%",
-    "uptimeYear": "95.21%",
+    "uptime": "95.12%",
+    "uptimeDay": "80.23%",
+    "uptimeWeek": "95.12%",
+    "uptimeMonth": "95.12%",
+    "uptimeYear": "95.12%",
     "time": 1127,
     "timeDay": 1072,
     "timeWeek": 1127,
     "timeMonth": 1127,
     "timeYear": 1127,
     "dailyMinutesDown": {
-      "2026-05-10": 280
+      "2026-05-10": 285
     }
   }
 ]

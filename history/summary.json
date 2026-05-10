@@ -4,19 +4,19 @@
     "url": "https://community.drycc.cc",
     "icon": "https://icons.duckduckgo.com/ip3/community.drycc.cc.ico",
     "slug": "drycc-community",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1234,
-    "timeDay": 1340,
-    "timeWeek": 1234,
-    "timeMonth": 1234,
-    "timeYear": 1234,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 1233,
+    "timeDay": 1331,
+    "timeWeek": 1233,
+    "timeMonth": 1233,
+    "timeYear": 1233,
     "dailyMinutesDown": {
-      "2026-05-10": 1
+      "2026-05-10": 5
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://www.drycc.cc",
     "icon": "https://icons.duckduckgo.com/ip3/www.drycc.cc.ico",
     "slug": "drycc-website",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 317,
-    "timeDay": 443,
-    "timeWeek": 317,
-    "timeMonth": 317,
-    "timeYear": 317,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 319,
+    "timeDay": 442,
+    "timeWeek": 319,
+    "timeMonth": 319,
+    "timeYear": 319,
     "dailyMinutesDown": {
-      "2026-05-10": 1
+      "2026-05-10": 5
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://registry.drycc.cc/v2/",
     "icon": "https://icons.duckduckgo.com/ip3/registry.drycc.cc.ico",
     "slug": "drycc-registry",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 956,
-    "timeDay": 1001,
-    "timeWeek": 956,
-    "timeMonth": 956,
-    "timeYear": 956,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 952,
+    "timeDay": 986,
+    "timeWeek": 952,
+    "timeMonth": 952,
+    "timeYear": 952,
     "dailyMinutesDown": {
-      "2026-05-10": 0
+      "2026-05-10": 5
     }
   },
   {
@@ -64,17 +64,19 @@
     "url": "https://woodpecker.drycc.cc",
     "icon": "https://icons.duckduckgo.com/ip3/woodpecker.drycc.cc.ico",
     "slug": "drycc-woodpecker",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1135,
-    "timeDay": 1094,
-    "timeWeek": 1135,
-    "timeMonth": 1135,
-    "timeYear": 1135,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 1131,
+    "timeDay": 1087,
+    "timeWeek": 1131,
+    "timeMonth": 1131,
+    "timeYear": 1131,
+    "dailyMinutesDown": {
+      "2026-05-10": 4
+    }
   }
 ]

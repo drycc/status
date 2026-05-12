@@ -9,17 +9,14 @@ user-agent: drycc
 sites:
   - name: Drycc Community
     url: https://community.drycc.cc
-    type: globalping
     maxResponseTime: 5000
 
   - name: Drycc Website
     url: https://www.drycc.cc
-    type: globalping
     maxResponseTime: 5000
 
   - name: Drycc Registry
     url: https://registry.drycc.cc/v2/
-    type: globalping
     maxResponseTime: 5000
     expectedStatusCodes:
       - 200
@@ -27,12 +24,12 @@ sites:
 
   - name: Drycc Woodpecker
     url: https://woodpecker.drycc.cc
-    type: globalping
     maxResponseTime: 5000
 
 status-website:
   cname: status.drycc.cc
   name: Drycc Status
+  theme: light
   introTitle: "Drycc Service Status"
   introMessage: "Real-time monitoring of Drycc public services. Check here for current status, incident history, and uptime metrics."
 

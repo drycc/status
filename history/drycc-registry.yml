@@ -1,7 +1,7 @@
 url: https://registry.drycc.cc/v2/
-status: up
+status: degraded
 code: 401
-responseTime: 4523
-lastUpdated: 2026-05-12T11:52:14.123Z
+responseTime: 10123
+lastUpdated: 2026-05-12T14:02:29.807Z
 startTime: 2026-05-06T06:06:45.778Z
 generator: Upptime <https://github.com/upptime/upptime>

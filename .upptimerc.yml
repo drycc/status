@@ -32,12 +32,3 @@ status-website:
   theme: light
   introTitle: "Drycc Service Status"
   introMessage: "Real-time monitoring of Drycc public services. Check here for current status, incident history, and uptime metrics."
-
-workflowSchedule:
-  uptime: false
-  responseTime: false
-  summary: false
-  graphs: false
-  staticSite: false
-  updateTemplate: false
-  updates: false

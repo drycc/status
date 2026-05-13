@@ -34,10 +34,10 @@ status-website:
   introMessage: "Real-time monitoring of Drycc public services. Check here for current status, incident history, and uptime metrics."
 
 workflowSchedule:
-  uptime: "*/10 * * * *"
-  responseTime: "0 * * * *"
-  summary: "*/10 * * * *"
-  graphs: "0 0 * * *"
-  staticSite: "*/10 * * * *"
-  updateTemplate: "0 0 * * 0"
-  updates: "0 3 * * 0"
+  uptime: false
+  responseTime: false
+  summary: false
+  graphs: false
+  staticSite: false
+  updateTemplate: false
+  updates: false

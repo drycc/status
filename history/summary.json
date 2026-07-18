@@ -22,18 +22,20 @@
     "url": "https://www.drycc.cc",
     "icon": "https://icons.duckduckgo.com/ip3/www.drycc.cc.ico",
     "slug": "drycc-website",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 403,
-    "timeDay": 355,
-    "timeWeek": 388,
-    "timeMonth": 416,
-    "timeYear": 403,
-    "dailyMinutesDown": {}
+    "time": 440,
+    "timeDay": 3226,
+    "timeWeek": 1102,
+    "timeMonth": 599,
+    "timeYear": 440,
+    "dailyMinutesDown": {
+      "2026-07-18": 0
+    }
   },
   {
     "name": "Drycc Registry",

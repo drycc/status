@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1423,
-    "timeDay": 1917,
-    "timeWeek": 1444,
-    "timeMonth": 1517,
-    "timeYear": 1423,
+    "time": 1424,
+    "timeDay": 1552,
+    "timeWeek": 1441,
+    "timeMonth": 1518,
+    "timeYear": 1424,
     "dailyMinutesDown": {}
   },
   {
@@ -24,15 +24,15 @@
     "slug": "drycc-website",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "96.97%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.57%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.96%",
-    "time": 438,
-    "timeDay": 2241,
-    "timeWeek": 994,
+    "time": 439,
+    "timeDay": 575,
+    "timeWeek": 996,
     "timeMonth": 584,
-    "timeYear": 438,
+    "timeYear": 439,
     "dailyMinutesDown": {
       "2026-07-18": 44
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 999,
-    "timeDay": 887,
-    "timeWeek": 793,
-    "timeMonth": 860,
-    "timeYear": 999,
+    "time": 1000,
+    "timeDay": 1068,
+    "timeWeek": 820,
+    "timeMonth": 869,
+    "timeYear": 1000,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1196,
-    "timeDay": 1369,
-    "timeWeek": 1228,
-    "timeMonth": 1248,
-    "timeYear": 1196,
+    "time": 1197,
+    "timeDay": 1285,
+    "timeWeek": 1178,
+    "timeMonth": 1257,
+    "timeYear": 1197,
     "dailyMinutesDown": {}
   }
 ]
